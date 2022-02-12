@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\LENOVO\\OneDrive\\Desktop\\HandGestureRecognition\\sign-language-recognition-using-convolutional-neural-networks\\handsignModel3.h5"
+all_model_checkpoint_paths: "C:\\Users\\LENOVO\\OneDrive\\Desktop\\HandGestureRecognition\\sign-language-recognition-using-convolutional-neural-networks\\handsignModel3.h5"
